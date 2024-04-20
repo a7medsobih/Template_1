@@ -15,7 +15,7 @@ body {
 
 /* start header */
 .header {
-    background-color: rgb(243, 243, 255);
+    background-color: var(--main-background-color);
 }
 
 .header .container {
