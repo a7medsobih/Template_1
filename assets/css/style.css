@@ -121,7 +121,7 @@ body {
 /* start landing */
 .landing {
     position: relative;
-    background-image: url(/assets/image/pexels-pixabay-355770.jpg);
+    background-image: url(../image/pexels-pixabay-355770.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: calc(100vh - 64px);
