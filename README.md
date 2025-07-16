@@ -1,4 +1,4 @@
-# 🌐 Template 1 - Elzero Web School Practice
+# 🌐 Template 1 - Elzero Web School 
 
 This is a responsive HTML & CSS template created as part of a training exercise inspired by Elzero Web School.  
 The project focuses on practicing layout building, responsive design, and clean UI structuring.
